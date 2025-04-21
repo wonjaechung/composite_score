@@ -4,5 +4,5 @@ numpy
 matplotlib
 seaborn
 datetime
-sklearn 
+scikit-learn
 plotly
